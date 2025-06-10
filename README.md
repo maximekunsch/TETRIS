@@ -17,7 +17,7 @@ This guide will help you use the provided Makefile to compile and clean the Tetr
 
 ## Makefile Overview
 
-The Makefile is configured to compile a C++ project using the SFML library. Here's a brief overview of the Makefile variables and targets:
+The Makefile is configured to compile a C++ project using the SFML library. To explain :
 
 - `CXX`: Specifies the compiler to be used, which is `g++` in this case.
 - `CXXFLAGS`: Compiler flags, including the C++17 standard and include paths for SFML.
